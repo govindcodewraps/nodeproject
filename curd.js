@@ -22,4 +22,4 @@ const filepath=`${dirPath}/apple.txt`;
 //         console.log("File name is updated")
 // })
 
-fs.unlinkSync(`${dirPath}/fruit.txt`) // delet file path
+//fs.unlinkSync(`${dirPath}/fruit.txt`) // delet file path
